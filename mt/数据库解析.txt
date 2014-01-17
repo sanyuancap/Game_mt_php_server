@@ -1,0 +1,22 @@
+task
+
+type 1 升级任务
+type 2 首次充值
+type 3 普通副本
+type 4 精英副本
+type 5 连续登陆
+type 6 累积登陆
+
+jl_type 1 英雄卡牌
+jl_type 2 符石
+jl_type 3 金币
+
+sys_pet
+
+suip 碎片数量
+
+u1_item
+
+suip 碎片数量
+
+type 22 材料
